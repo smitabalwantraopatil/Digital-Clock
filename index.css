@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    margin-top: 15%;
+    text-align: center;
+}
+ 
+#banner{
+    color: white;
+    font-size: larger;
+    text-align: center;
+} 
+/* #but{
+    border: 2px black solid;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(173, 163, 99);
+    margin-top: 20px;
+    text-align: center;
+} */
